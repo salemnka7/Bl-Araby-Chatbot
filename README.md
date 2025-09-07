@@ -17,7 +17,6 @@ Bl-Araby-Chatbot is an advanced Arabic-language chatbot designed to process and 
 - [Usage](#usage)
 - [Model and Data Access](#model-and-data-access)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -167,11 +166,6 @@ Add tests in the `tests/` directory where possible.
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📬 Contact
 
